@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Tienda_AllisonAlvarado.controller;
- import Tienda_AllisonAlvarado.service.CategoriaService;
+import Tienda_AllisonAlvarado.service.CategoriaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
